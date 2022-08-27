@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">task4</string>
+    <string name="plus2">+2 points</string>
+    <string name="plus3">+3 points</string>
+    <string name="freethrow">Free Throw</string>
+    <string name="resetting">RESET</string>
+    <string name="zero">0</string>
+    <string name="courtCounter">COURT COUNTER</string>
+    <string name="teamB">TEAM B</string>
+    <string name="teamA">TEAM A</string>
+
+
 </resources>

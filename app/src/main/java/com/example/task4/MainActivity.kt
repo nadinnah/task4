@@ -16,38 +16,38 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        initializeView()
+        //initializeView()
     }
 
-    private fun initializeView() {
-        button = findViewById<Button>(R.id.button)
-        button.setOnClickListener {
-
-        }
-        button = findViewById<Button>(R.id.button1)
-        button.setOnClickListener {
-
-        }
-        button = findViewById<Button>(R.id.button2)
-        button.setOnClickListener {
-
-        }
-        button = findViewById<Button>(R.id.button3)
-        button.setOnClickListener {
-
-        }
-        button = findViewById<Button>(R.id.button4)
-        button.setOnClickListener {
-
-        }
-        button = findViewById<Button>(R.id.button5)
-        button.setOnClickListener {
-
-        }
-        button = findViewById<Button>(R.id.button6)
-        button.setOnClickListener {
-
-        }
-
-    }
+//    private fun initializeView() {
+//        button = findViewById<Button>(R.id.button)
+//        button.setOnClickListener {
+//
+//        }
+//        button = findViewById<Button>(R.id.button1)
+//        button.setOnClickListener {
+//
+//        }
+//        button = findViewById<Button>(R.id.button2)
+//        button.setOnClickListener {
+//
+//        }
+//        button = findViewById<Button>(R.id.button3)
+//        button.setOnClickListener {
+//
+//        }
+//        button = findViewById<Button>(R.id.button4)
+//        button.setOnClickListener {
+//
+//        }
+//        button = findViewById<Button>(R.id.button5)
+//        button.setOnClickListener {
+//
+//        }
+//        button = findViewById<Button>(R.id.button6)
+//        button.setOnClickListener {
+//
+//        }
+//
+//    }
 }
